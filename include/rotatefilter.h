@@ -1,6 +1,7 @@
 #pragma once
 
 #include "directpointfilter.h"
+#include <cmath>
 
 namespace fltrs
 {
