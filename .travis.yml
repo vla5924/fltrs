@@ -1,0 +1,21 @@
+notifications:
+  email: true
+
+language: cpp
+dist: focal
+compiler:
+  - gcc
+  - clang
+
+addons:
+  apt:
+    packages:
+      - cmake
+      - qtbase5-dev
+      - qtdeclarative5-dev
+
+script:
+  - mkdir build
+  - cd build
+  - cmake ..
+  - make
