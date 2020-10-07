@@ -10,6 +10,7 @@
 #include <ciso646>
 #include <iostream>
 #include <vector>
+#include <cmath>
 
 /* point filters */
 #include "invertfilter.h"

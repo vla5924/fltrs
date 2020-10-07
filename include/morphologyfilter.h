@@ -1,6 +1,7 @@
 #pragma once
 
 #include "dynamicmatrixfilter.h"
+#include <cmath>
 
 namespace fltrs
 {
