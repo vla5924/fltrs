@@ -1,6 +1,6 @@
 #pragma once
 
-#include <QImage>
+#include "precompiled.h"
 #include "exceptor.h"
 
 namespace fltrs

@@ -1,7 +1,6 @@
 #pragma once
 
-#include <exception>
-#include <string>
+#include "precompiled.h"
 
 #define EXCEPTOR(CLASSNAME, WHATSTR) \
     class CLASSNAME : public std::exception \

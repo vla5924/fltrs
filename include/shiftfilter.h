@@ -1,5 +1,6 @@
 #pragma once
 
+#include "precompiled.h"
 #include "directpointfilter.h"
 
 namespace fltrs

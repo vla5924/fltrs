@@ -1,7 +1,7 @@
 #pragma once
 
+#include "precompiled.h"
 #include "matrixfilter.h"
-#include <cmath>
 
 namespace fltrs
 {

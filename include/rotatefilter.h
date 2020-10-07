@@ -1,7 +1,7 @@
 #pragma once
 
+#include "precompiled.h"
 #include "directpointfilter.h"
-#include <cmath>
 
 namespace fltrs
 {

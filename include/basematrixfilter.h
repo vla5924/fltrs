@@ -1,7 +1,7 @@
 #pragma once
 
+#include "precompiled.h"
 #include "filter.h"
-#include <vector>
 
 namespace fltrs
 {

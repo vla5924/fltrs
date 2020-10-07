@@ -1,5 +1,6 @@
 #pragma once
 
+#include "precompiled.h"
 #include "morphologyfilter.h"
 #include "erosionfilter.h"
 #include "dilationfilter.h"

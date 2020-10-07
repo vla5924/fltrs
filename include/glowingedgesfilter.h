@@ -1,5 +1,6 @@
 #pragma once
 
+#include "precompiled.h"
 #include "complexfilter.h"
 #include "medianfilter.h"
 #include "sobelyfilter.h"
