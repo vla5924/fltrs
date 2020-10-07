@@ -8,5 +8,5 @@
     { \
         const std::string str = WHATSTR; \
     public: \
-        const char* what() const { return str.c_str(); } \
+        const char* what() const noexcept { return str.c_str(); } \
     }
