@@ -25,6 +25,7 @@ add_library(fltrs STATIC
     src/dynamicmatrixfilter.cpp
     src/erosionfilter.cpp
     src/filter.cpp
+    src/functions.cpp
     src/gaussianblurfilter.cpp
     src/glowingedgesfilter.cpp
     src/grayscalefilter.cpp
